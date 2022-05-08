@@ -1,0 +1,84 @@
+body {
+  background-color: #112B3C;
+  margin: 0;
+}
+
+h1 {
+  color: #CCF3EE;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+h2 {
+  color: #CCF3EE;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+h3 {
+  color: #CCF3EE;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+p {
+  color: #97C4B8;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.proimg {
+  width: 15%;
+  position: relative;
+  margin: 1% 1% 1% 1%;
+}
+
+.name {
+  display: inline-block;
+  position: absolute;
+  margin: 2% 0 1% 1%;
+  font-size: 40px;
+}
+
+.bio {
+  display: inline-block;
+  position: absolute;
+  margin: 7% 2% 1% 1%;
+  justify-content: center;
+  font-size: 20px;
+}
+
+.skills {
+  position: relative;
+  margin: 5% 12% 0 15%;
+}
+
+.skillh2 {
+  text-align: left;
+  margin-top: 2%;
+}
+
+/* .tech-skills {
+  display: inline-block;
+  position: relative;
+  top: 50%;
+} */
+.tech-des {
+  display: inline-block;
+  position: relative;
+  left: 15%;
+  margin-right: 10px;
+}
+
+.education {
+  position: relative;
+  margin: 5% 12% 0 15%;
+}
+
+.edu-des {
+  display: inline-block;
+  position: relative;
+  left: 15%;
+  margin-right: 10px;
+}
+
+.contact {
+  text-align: center;
+  margin: 5% 0 5% 0;
+}
